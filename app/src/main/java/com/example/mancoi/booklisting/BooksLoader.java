@@ -1,0 +1,9 @@
+[General]
+credentials.password=@ByteArray(qT\x1fYY\rA[)
+credentials.username=mancoi
+customer.email=caoman96@gmail.com
+eula-id.agreed=-1
+host.only.interface=vboxnet0
+onboarding.popup.shown=true
+stats.installation.date=1499938078
+stats.last=1499938092
