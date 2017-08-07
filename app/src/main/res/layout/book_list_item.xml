@@ -9,16 +9,16 @@
     android:paddingLeft="16dp"
     android:paddingRight="8dp"
     android:paddingStart="16dp"
-    android:paddingTop="16dp">
+    android:paddingTop="16dp" >
 
     <TextView
         android:id="@+id/title_tv"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-
-        android:textSize="16sp"
+        android:textColor="#000000"
+        android:textAppearance="?android:textAppearanceMedium"
         android:textStyle="bold"
-        tools:text="This is a long title place holder and it should wrap to 2 lines" />
+        tools:text="This is a long title place holder and it should show all its content, no truncated" />
 
     <TextView
         android:id="@+id/author_tv"
